@@ -1,0 +1,1 @@
+@font-face{font-family:sparky;src:url(/math-puzzle/sparky.ttf)}:root{--error-color:#ec3636;--black:#000;--white:#fff;--bg-transparent:#0000008e;--link-color:#2a00e6;--bg-blue:#0ad1f3}body{padding:0;margin:0;background-color:var(--bg-blue);font-family:sparky;letter-spacing:.05rem}button,input,select{font-family:sparky;font-weight:lighter}
